@@ -1,6 +1,5 @@
 a = 'Supercalifragilisticexpialidocious'
 len(a)
-print()
 
 'ice'in a
 
